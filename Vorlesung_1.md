@@ -3,8 +3,7 @@ Grundlegende Konzepte
     * Einschränkungen der expliziten Programmierung
       * Spamfilter: viele Regeln
       * Selbstfahrendes Kraftfahrzeug: zu viele Regeln
-    * Maschinelles Lernen: "Studienrichtung, die Computern die Fähigkeit gibt, 
-    zu lernen, ohne explizit programmiert zu werden" Arthur Samuel (1959)
+    * Maschinelles Lernen: "Studienrichtung, die Computern die Lernfähigkeit gibt, ohne explizit programmiert zu werden" Arthur Samuel (1959)
       
 * Was ist Lernen?
 
