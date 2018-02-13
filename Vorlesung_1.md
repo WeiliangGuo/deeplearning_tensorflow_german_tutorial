@@ -12,10 +12,11 @@
       http://cs231n.github.io/classification/
     * Überwachtes Lernen ist die üblichste Problemart beim maschinellen Lernen.
       * Bild-Labeling: Lernen von getaggten Bildern
-      * E-Mail-Spam-Filter: Lernen von beschrifteten (Spam- oder Ham-)E-Mails
+      * E-Mail-Spam-Filter: Lernen von gelabelte (Spam oder Ham)E-Mails
       * Vorhersage des Prüfungsergebnisses: Lernen aus dem vorherigen Prüfungsergebnis und der Zeit, die Sie damit verbracht haben.
     * Arten des überwachten Lernens:
       * Vorhersage der Punktzahl für die Abschlussprüfung, die auf der aufgewendeten Zeit basiert.
+        ![alt text](https://github.com/WeiliangGuo/deeplearning_tensorflow_german_tutorial/blob/master/pics/Examensnote.jpg)
   * Unüberwachtes Lernen: ungelabelte Daten
     * Google News Gruppierung
     * Wort-Clustering
