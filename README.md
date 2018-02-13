@@ -2,4 +2,4 @@
 
 * [Original tutorial videos are in Korean and slides are in English](http://hunkim.github.io/ml/), here I translate them into German.
 
-Latest: Vorlesung_1 in Verbereitung.
+Aktuellste: Vorlesung_1 in Verbereitung.
