@@ -24,6 +24,10 @@
         * Binäre Klassifikation
         
         ![alt text](https://github.com/WeiliangGuo/deeplearning_tensorflow_german_tutorial/blob/master/pics/Bestanden%2CNIcht-bestanden.jpg)
+    * Auf der aufgewendeten Zeit basierende Briefgrad (A, B, C, C, E und F)   
+      * Multi-Label-Klassifizierung
+      
+        ![alt text](https://github.com/WeiliangGuo/deeplearning_tensorflow_german_tutorial/blob/master/pics/Stunden%2CGrad.jpg)
   * Unüberwachtes Lernen: ungelabelte Daten
     * Google News Gruppierung
     * Wort-Clustering
