@@ -16,7 +16,13 @@
       * Vorhersage des Prüfungsergebnisses: Lernen aus dem vorherigen Prüfungsergebnis und der Zeit, die Sie damit verbracht haben.
     * Arten des überwachten Lernens:
       * Vorhersage der Punktzahl für die Abschlussprüfung, die auf der aufgewendeten Zeit basiert.
+        * Regression
+        
         ![alt text](https://github.com/WeiliangGuo/deeplearning_tensorflow_german_tutorial/blob/master/pics/Examensnote.jpg)
+      * Bestanden/Nicht bestanden basierend auf der aufgewendeten Zeit.
+        * Binäre Klassifikation
+        
+        ![alt text](https://github.com/WeiliangGuo/deeplearning_tensorflow_german_tutorial/blob/master/pics/Bestanden%2CNIcht-bestanden.jpg)
   * Unüberwachtes Lernen: ungelabelte Daten
     * Google News Gruppierung
     * Wort-Clustering
